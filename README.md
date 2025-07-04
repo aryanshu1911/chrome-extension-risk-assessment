@@ -23,5 +23,5 @@ The goal is to learn how to identify suspicious or redundant browser extensions 
 
 ## License
 
-This project is licensed under the MIT License [LICENSE](LICENSE) 
+This project is licensed under the MIT [LICENSE](LICENSE) 
 
