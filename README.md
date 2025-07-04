@@ -20,3 +20,8 @@ The goal is to learn how to identify suspicious or redundant browser extensions 
 6. Restarted the browser and observed performance changes.
 7. Researched common threats posed by malicious extensions.
 8. Documented all actions and findings in the report.
+
+## License
+
+This project is licensed under the MIT License [LICENSE](LICENSE) 
+
